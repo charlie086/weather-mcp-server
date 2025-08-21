@@ -1,5 +1,6 @@
 # Weather MCP Server
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/devilcoder01/weather-mcp-server)](https://archestra.ai/mcp-catalog/devilcoder01__weather-mcp-server)
 [![smithery badge](https://smithery.ai/badge/@devilcoder01/weather-mcp-server)](https://smithery.ai/server/@devilcoder01/weather-mcp-server)
 
 A Model Context Protocol (MCP) server for weather data, built with FastAPI and the MCP framework. This server provides various weather-related tools that can be used by AI assistants to retrieve current weather conditions, forecasts, air quality data, and more.
